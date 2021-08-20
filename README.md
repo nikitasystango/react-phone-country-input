@@ -14,7 +14,7 @@ yarn add react-country-input
 <ReactCountryInput />
 ```
 ## Usage
-You need to import ReactCountryInput from package react-country-input with the props using bellow
+You need to import ReactCountryInput from package react-country-input with the props using below-
 
 Code Example:
 ```js live=true
