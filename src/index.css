@@ -1,0 +1,47 @@
+.country-select {
+  width: 9.666667% !important;
+  padding-right: 0 !important;
+}
+.country-select-box {
+  min-width: 500px !important;
+  background: #fff !important;
+  padding: 4px 6px 6px 6px !important;
+  margin-top: 7px !important;
+}
+.select-btn {
+  background: #fff !important;
+  border-style: none !important;
+  font-size: 20px !important;
+  padding: 0px 5px 5px 13px !important;
+}
+.select-btn img {
+  margin-left: 6px;
+  margin-right: 3px;
+}
+.country-code {
+  width: 7.666667% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-mask {
+  background: #fff;
+  margin: 0;
+}
+.phone-input {
+  padding-left: 0 !important;
+}
+.phone-input input {
+  border-style: none !important;
+}
+.phone-input input :focus {
+  outline: none !important;
+  outline-offset: none !important;
+}
+.mask-input:focus {
+  color: #212529 !important;
+  background-color: #fff !important;
+  border-color: #86b7fe !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
